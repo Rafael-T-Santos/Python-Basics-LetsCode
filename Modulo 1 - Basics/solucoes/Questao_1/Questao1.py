@@ -1,7 +1,5 @@
-def func(valor, lista=[]):
-    lista.append(valor)
-    return lista
- 
-print(func(10))
-print(func(20))
-print(func(30))
+valor_monetario = float(input('Digite um valor monetário: '))
+
+valor = valor_monetario - (valor_monetario*0.15)
+
+print(f'O novo valor é {valor}')
