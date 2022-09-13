@@ -1,5 +1,5 @@
 # Exercicios - Modulo 3
-## Clique na para abrir o arquivo com soluções
+## Clique na imagem para abrir o arquivo com soluções
 
 [![Questão 1](img/Exercicio_01.png "Questão 1")](solucoes/Modulo_3.ipynb)
 
